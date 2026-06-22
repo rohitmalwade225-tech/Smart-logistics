@@ -133,27 +133,6 @@ src/main/java/com/logistics
 
 ## 🚀 Getting Started
 
-### Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/smart-logistics.git
-```
-
-### Navigate to Project
-
-```bash
-cd smart-logistics
-```
-
-### Configure Database
-
-Update:
-
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/logisticsdb
-spring.datasource.username=root
-spring.datasource.password=password
-```
 
 ### Run Application
 
